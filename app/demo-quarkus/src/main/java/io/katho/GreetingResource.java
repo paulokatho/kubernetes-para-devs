@@ -11,6 +11,6 @@ public class GreetingResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello Katho New Action Reactive And Atomic E AGORA COM O GRANDE MESTRE ELDER MORAES!!!!";
+        return "Hello Katho New Action Reactive And Atomic E AGORA COM O GRANDE MESTRE ELDER MORAES. E foi muito TOP!!!!";
     }
 }
