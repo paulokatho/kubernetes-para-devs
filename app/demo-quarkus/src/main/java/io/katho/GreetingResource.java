@@ -11,6 +11,6 @@ public class GreetingResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello Katho New Action Reactive And Atomic E AGORA VAMOS MUDAR DE CAAAAAAASA. E foi muito TOP!!!! ESSA SEMANA VAI SAIR NOSSO CONTRATO!!!";
+        return "Hello Katho New Action Reactive And Atomic E AGORA MUDAAAAAAAMOOOOOSSSSSSS!";
     }
 }
