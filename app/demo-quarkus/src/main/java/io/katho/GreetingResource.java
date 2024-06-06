@@ -11,6 +11,6 @@ public class GreetingResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String hello() {
-        return "Hello Katho New Action Reactive And Atomic! Hoje foi aula de inteligencia artificial e generativa.";
+        return "Hello Katho New Action Reactive And Atomic! Também aula de gestão de patrimônio e como gerar riquiza!!!.";
     }
 }
